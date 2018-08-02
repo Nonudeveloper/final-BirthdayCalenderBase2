@@ -1,0 +1,1 @@
+export {default as birthdayStore} from './birthdayStore';
